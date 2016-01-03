@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<facList>
+    <facility name="Seattle, WA">
+    	<items>
+	    	<item ID="PL132-C">4</item>
+        	<item ID="ABC123">45</item>
+        	<item ID="JBL3100">52</item>
+        	<item ID="PU238">60</item>
+        </items>
+    </facility>
+    <facility name="San Francisco, CA">        	
+    	<items>
+	    	<item ID="XLK200B">8</item>
+        	<item ID="RL123A">40</item>
+			<item ID="CT1928">46</item>
+        	<item ID="SR71-D">81</item>
+        </items>
+    </facility>
+    <facility name="Los Angeles, CA">
+    	<items>
+        	<item ID="XTP202">32</item>
+			<item ID="E241i">44</item>
+			<item ID="RX100-3">57</item>
+        	<item ID="JBL3100">60</item>
+        </items>
+    </facility>
+    <facility name="Phoenix, AZ">
+    	<items>
+        	<item ID="RX100-3">18</item>
+        	<item ID="SN-241-L">22</item>
+        	<item ID="ZTF109">54</item>
+			<item ID="SR71-D">55</item>
+        </items>
+    </facility>
+    <facility name="Denver, CO">
+    	<items>
+        	<item ID="ABC123">80</item>
+			<item ID="RTF110">100</item>
+        	<item ID="RL123A">110</item>
+        </items>
+    </facility>
+    <facility name="Santa Fe, NM">
+    	<items>
+        	<item ID="RX100-3">144</item>
+        	<item ID="CR2032">280</item>
+        </items>
+    </facility>
+    <facility name="Fargo, ND">
+    	<items>
+        	<item ID="ABC123">25</item>
+        	<item ID="JBL3100">32</item>
+        	<item ID="XLK200B">82</item>
+        </items>
+    </facility>
+    <facility name="Austin, TX">
+    	<items>
+			<item ID="RX100-3">35</item>
+        	<item ID="SN-241-L">35</item>
+        	<item ID="RL123A">66</item>
+        </items>
+    </facility>
+    <facility name="St. Louis, MO">
+    	<items>
+			<item ID="SR71-D">45</item>
+        	<item ID="ABC123">70</item>
+        	<item ID="PU238">82</item>
+        </items>
+    </facility>
+    <facility name="Chicago, IL">
+    	<items>
+			<item ID="CT1928">20</item>
+        	<item ID="XTP202">20</item>
+        	<item ID="ABC123">60</item>
+        	<item ID="E241i">64</item>
+			<item ID="RTF110">110</item>
+        </items>
+    </facility>
+    <facility name="New Orleans, LA">
+    	<items>
+			<item ID="PU238">49</item>
+        	<item ID="MM35P">100</item>
+        	<item ID="ZTF109">120</item>
+        </items>
+    </facility>
+    <facility name="Nashville, TN">
+    	<items>
+			<item ID="SN-241-L">16</item>
+			<item ID="XLK200B">28</item>
+        	<item ID="RX100-3">78</item>
+			<item ID="CR2032">366</item>
+        </items>
+    </facility>
+    <facility name="Detroit, MI">
+    	<items>
+			<item ID="SR71-D">8</item>
+        	<item ID="CT1928">72</item>
+        	<item ID="JBL3100">117</item>
+        </items>
+    </facility>
+    <facility name="Boston, MA">
+    	<items>
+			<item ID="PL132-C">3</item>
+        	<item ID="MM35P">47</item>
+        	<item ID="CT1928">65</item>
+        </items>
+    </facility>
+    <facility name="New York City, NY">
+    	<items>
+        	<item ID="RL123A">12</item>
+        	<item ID="ZTF109">28</item>
+        	<item ID="E241i">72</item>
+			<item ID="CR2032">132</item>
+        </items>
+    </facility>
+    <facility name="Norfolk, VA">
+    	<items>
+			<item ID="XLK200B">14</item>
+			<item ID="RL123A">50</item>
+        	<item ID="MM35P">66</item>
+        </items>
+    </facility>
+    <facility name="Atlanta, GA">
+    	<items>
+			<item ID="E241i">32</item>
+        	<item ID="RX100-3">90</item>
+        	<item ID="PU238">120</item>
+        </items>
+    </facility>
+    <facility name="Miami, FL">
+    	<items>
+			<item ID="SR71-D">15</item>
+        	<item ID="MM35P">16</item>
+			<item ID="SN-241-L">28</item>
+        	<item ID="JBL3100">44</item>
+        	<item ID="XTP202">88</item>
+        </items>
+    </facility>
+    <facility name="Houston, TX">
+      <items>
+          <item ID="RL123A">50</item>
+          <item ID="MM35P">16</item>
+          <item ID="SN-241-L">28</item>
+          <item ID="XTP202">30</item>
+        </items>
+    </facility>
+    <facility name="Las Vegas, NV">
+      <items>
+          <item ID="CT1928">40</item>
+          <item ID="SR71-D">15</item>
+          <item ID="XLK200B">21</item>
+          <item ID="JBL3100">44</item>
+        </items>
+    </facility>
+</facList>
