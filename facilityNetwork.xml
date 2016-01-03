@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<facList>
+    <facility name="Seattle, WA">
+        <facilityRate>8</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>50</facilityLimit>
+        <links>
+			<link name="San Francisco, CA">808</link>
+            <link name="Fargo, ND">1426</link>
+        </links>
+    </facility>
+    <facility name="San Francisco, CA">
+        <facilityRate>12</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>80</facilityLimit>
+        <links>
+			<link name="Los Angeles, CA">382</link>
+            <link name="Seattle, WA">808</link>
+            <link name="Denver, CO">1249</link>
+        </links>
+    </facility>
+    <facility name="Los Angeles, CA">
+        <facilityRate>10</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>100</facilityLimit>
+        <links>
+			<link name="Phoenix, AZ">372</link>
+      <link name="San Francisco, CA">382</link>
+      <link name="Las Vegas, NV">300</link>
+        </links>
+    </facility>
+    <facility name="Phoenix, AZ">
+        <facilityRate>8</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>80</facilityLimit>
+        <links>
+            <link name="Los Angeles, CA">372</link>
+            <link name="Santa Fe, NM">480</link>
+            <link name="Houston, TX">1176</link>
+            <link name="Las Vegas, NV">298</link>
+        </links>
+    </facility>
+    <facility name="Denver, CO">
+        <facilityRate>10</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>200</facilityLimit>
+        <links>
+            <link name="Santa Fe, NM">392</link>
+            <link name="St. Louis, MO">851</link>
+			<link name="Fargo, ND">889</link>
+			<link name="San Francisco, CA">1249</link>
+			<link name="Houston, TX">1029</link>
+      <link name="Las Vegas, NV">748</link>
+        </links>
+    </facility>
+    <facility name="Santa Fe, NM">
+        <facilityRate>8</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>150</facilityLimit>
+        <links>
+            <link name="Denver, CO">392</link>
+			<link name="Phoenix, AZ">480</link>
+            <link name="Austin, TX">688</link>
+			<link name="St. Louis, MO">1032</link>
+        </links>
+    </facility>
+	<facility name="Fargo, ND">
+        <facilityRate>8</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>75</facilityLimit>
+        <links>
+			<link name="Chicago, IL">643</link>
+			<link name="Denver, CO">889</link>
+            <link name="Seattle, WA">1426</link>
+        </links>
+    </facility>
+    <facility name="Austin, TX">
+        <facilityRate>10</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>110</facilityLimit>
+        <links>
+		 <link name="New Orleans, LA">512</link>
+            <link name="Santa Fe, NM">688</link>
+            <link name="St. Louis, MO">825</link>
+        </links>
+    </facility>
+	<facility name="St. Louis, MO">
+        <facilityRate>12</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>60</facilityLimit>
+        <links>
+            <link name="Chicago, IL">297</link>
+            <link name="Nashville, TN">309</link>
+            <link name="Austin, TX">825</link>
+			<link name="Denver, CO">851</link>
+            <link name="Santa Fe, NM">1032</link>
+            <link name="Houston, TX">834</link>
+        </links>
+    </facility>
+	<facility name="Chicago, IL">
+    	<facilityRate>10</facilityRate>
+    	<facilityCost>300</facilityCost>
+      <facilityLimit>120</facilityLimit>
+    	<links>
+            <link name="Detroit, MI">282</link>
+            <link name="St. Louis, MO">297</link>
+            <link name="Fargo, ND">643</link>
+			<link name="New York City, NY">790</link>
+        </links>
+    </facility>
+    <facility name="New Orleans, LA">
+        <facilityRate>10</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>150</facilityLimit>
+        <links>
+		    <link name="Atlanta, GA">469</link>
+            <link name="Austin, TX">512</link>
+            <link name="Nashville, TN">532</link>
+            <link name="Miami, FL">864</link>
+        </links>
+    </facility>
+	<facility name="Nashville, TN">
+        <facilityRate>8</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>80</facilityLimit>
+        <links>
+            <link name="St. Louis, MO">309</link>
+            <link name="New Orleans, LA">532</link>
+            <link name="Norfolk, VA">706</link>
+        </links>
+    </facility>
+	<facility name="Detroit, MI">
+        <facilityRate>10</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>100</facilityLimit>
+        <links>
+            <link name="Chicago, IL">282</link>
+            <link name="New York City, NY">614</link>
+            <link name="Boston, MA">719</link>
+        </links>
+    </facility>    
+    <facility name="Boston, MA">
+        <facilityRate>10</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>50</facilityLimit>
+        <links>
+            <link name="New York City, NY">215</link>
+			<link name="Detroit, MI">719</link>
+        </links>
+    </facility>
+    <facility name="New York City, NY">
+        <facilityRate>14</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>90</facilityLimit>
+        <links>
+            <link name="Boston, MA">215</link>
+			<link name="Norfolk, VA">363</link>
+            <link name="Detroit, MI">614</link>
+            <link name="Chicago, IL">790</link>
+        </links>
+    </facility>
+    <facility name="Norfolk, VA">
+        <facilityRate>10</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>140</facilityLimit>
+        <links>
+            <link name="New York City, NY">363</link>
+			<link name="Atlanta, GA">566</link>
+            <link name="Nashville, TN">706</link>
+        </links>
+    </facility>
+    <facility name="Atlanta, GA">
+        <facilityRate>10</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>200</facilityLimit>
+        <links>
+			<link name="New Orleans, LA">469</link>
+            <link name="Norfolk, VA">566</link>
+            <link name="Miami, FL">663</link>
+        </links>
+    </facility>
+    <facility name="Miami, FL">
+        <facilityRate>12</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>90</facilityLimit>
+        <links>
+            <link name="Atlanta, GA">663</link>
+            <link name="New Orleans, LA">864</link>
+        </links>
+    </facility>
+    <facility name="Houston, TX">
+        <facilityRate>12</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>70</facilityLimit>
+        <links>
+            <link name="St. Louis, MO">834</link>
+            <link name="Denver, CO">1029</link>
+            <link name="Phoenix, AZ">1176</link>
+        </links>
+    </facility>
+    <facility name="Las Vegas, NV">
+        <facilityRate>12</facilityRate>
+        <facilityCost>300</facilityCost>
+        <facilityLimit>60</facilityLimit>
+        <links>
+            <link name="Phoenix, AZ">298</link>
+            <link name="Los Angeles, CA">300</link>
+            <link name="Denver, CO">748</link>
+        </links>
+    </facility>
+</facList>
